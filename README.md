@@ -4,6 +4,7 @@ Based on the experiences I had before, most people don’t know what a technical
 
 ## What is a Technical Writer?
 Starting from the beggining, a technical writer is a specialist in creating documentation that explains complex technical information in a clear and understandable manner. We have to consider who is the audience of the documentation that we are writing. The kind of language we are going to use is directly related to how specific or high level we have to be when writing about a product or a process. We have to know how to provide information for engineering teams, product teams, non-technical clients and sometimes it means transforming really technical and specific information provided by a developer into direct and simplified text that is readable by anyone.
+
 We produce user manuals, instruction guides, technical reports, helpdesks, troubleshooting guides and other types of written content that help users understand how to use products or systems effectively. A technical writer collaborates closely with subject matter experts to gather information and ensure accuracy in their writing. Additionally, it is really important for technical writer to have skills in research, editing, and communication to effectively convey technical information to their intended audience.
 
 ## Why you should have a Technical Writer in your team
